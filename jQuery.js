@@ -55,7 +55,7 @@
  */
 
 //With jQuery you can fade elements in and out of visibility.
-$(document).ready(function () {
+/*$(document).ready(function () {
     $("#fade").click(function () {
         $("#div1").fadeIn();
         $("#div2").fadeIn("slow");
@@ -77,4 +77,18 @@ $(document).ready(function () {
         $("#div3").fadeTo("slow", 0.6);
     })
 })
+ */
+
+//jQuery Effects - Sliding and 3 methods to do that
+//--slideDown()
+//--slideUp()
+//--slideToddle()
+/*$(document). ready(function () {
+    $("#flip").click(function () {
+        $("#panel").slideDown("slow")
+    });
+
+})
+
+ */
 
